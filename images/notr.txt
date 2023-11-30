@@ -1,0 +1,10 @@
+ -  report páylip
+ + luu vào server và gửi mail.
+ + thêm tính năng cho  phép ngta xem lại report
+ +\
+
+
+- lấy link ntn, và khi nào sẽ lấy(a tiến, anh vũ)
+
+
+tuần sau nộp: time line leaveslip, break stask cho páylip, cách kết nối vs HRMS,...
